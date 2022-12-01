@@ -4,7 +4,13 @@
 
 ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)<br><br>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&width=400%">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+# _Tech Stack_
+## _Backend_
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&width=400%">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
+
+## _Frontend_
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 # _About_
 ![about-final](https://user-images.githubusercontent.com/69143883/123825902-e76e2880-d91c-11eb-8082-30a96d803d18.png)
 _<b>Youtubers<b> a platform for <b>content creators👦📷, entrepreneurs👨‍💼, creative✨ minds🤯 , and many more.<b> They all reach out to a wide audience in <b>millions and billions.<b> A platform to showcase🤹 your <b>talent🎨 in the industry🏢🏢, to get noticed<b>🤳🤳 among 👨‍👨‍👦‍👦people👨‍👨‍👦‍👦, etc. It is none other than YOUTUBE_
