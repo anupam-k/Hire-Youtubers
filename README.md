@@ -7,7 +7,10 @@
 
 # _Tech Stack_
 ## _Backend_
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&width=400%">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&width=400%">&nbsp;
+
+## _Database_
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
 
 ## _Frontend_
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -21,12 +24,12 @@ _To reach out to a great audience of brands especially in the electronic📷📱
 
 
 # _Features_
- - <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> authentication to register account🔐
- - Monitor your hired Youtubers💻
- - Hire Youtuber by submmiting forms📪📪✅
- - Detailed view of Individual Youtuber📙📕📘📗
- - Contact Team👨‍👨‍👦‍👦
- - Every Module has its separate Model⚡⚡
+ - _Facebook authentication to register account_ 🔐
+ - _Monitor your hired Youtubers_ 💻
+ - _Hire Youtuber by submmiting forms_ 📪📪✅
+ - _Detailed view of Individual Youtuber_ 📙📕📘📗
+ - _Contact Team_ 👨‍👨‍👦‍👦
+ - _Every Module has its separate Model_ ⚡⚡
 
 # 📌 _Home Page_ 🏠
 ![home](https://user-images.githubusercontent.com/69143883/125152812-ec2cab00-e16c-11eb-9613-020a00d5be47.PNG)
